@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![Orj Cover](gitOrj.jpg)
+![Orj Cover](Orj-net.jpg)
 
 
 Orj is an innovative **Python and JavaScript framework** designed for developing **business applications** with a modular and scalable approach.
